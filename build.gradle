@@ -14,7 +14,6 @@ allure {
         version = "2.13.8"
     }
 }
-sourceCompatibility = 11
 compileJava.options.encoding = "UTF-8"
 compileTestJava.options.encoding = "UTF-8"
 
@@ -33,6 +32,7 @@ dependencies {
     compile group: 'org.postgresql', name: 'postgresql', version: '42.2.13'
     testImplementation 'io.qameta.allure:allure-selenide:2.13.8'
     testImplementation 'com.github.javafaker:javafaker:1.0.2'
+    testImplementation 'commons-dbutils:commons-dbutils:1.7'
 }
 
 test {
