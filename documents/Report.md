@@ -11,7 +11,7 @@
 Отрицательно - 10
 % успешных - 60%
 
-
+![](https://github.com/kirmakin/DiplomaProject/blob/master/documents/Screenshot1.png?raw=true)
 
 ## Общие рекомендации
 В результате выполнения тестовых сценариев было обнаружено 7 багов.  
